@@ -1,6 +1,7 @@
 # CRUD Flet-Django Data Management Application
 
 This project is a web application built using [Flet](https://flet.dev/) for the frontend and likely [Django](https://www.djangoproject.com/) for the backend. It provides a dynamic and interactive interface for managing data, featuring functionalities like searching, filtering, pagination, editing, and deleting records.
+Design based on Flet's sample gallery <3, 
 
 ## Features
 
