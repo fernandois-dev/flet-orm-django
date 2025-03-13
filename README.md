@@ -60,8 +60,8 @@ The project is organized as follows:
 
 1.  Clone the repository:
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/fernandois-dev/flet-orm-django.git
+    cd flet-orm-django
     ```
 2. Create a virtual environment (recommended):
     ```bash
@@ -75,7 +75,7 @@ The project is organized as follows:
     # or
     pip install flet django
     ```
-4.  Set up the Django - database (if not already done):
+4.  Set up the Django - database:
     ```bash
     python sincronization.py
     ```
